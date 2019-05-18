@@ -1,0 +1,16 @@
+page-sponsors {
+
+    .cardHeader {
+        background:#004c94,; 
+        color:#fff;
+    }
+
+
+    .cardHeader1 {
+        background-image: url('../assets/img/bronze-background.jpg'); 
+        color:#fff;
+    }
+
+
+
+}
